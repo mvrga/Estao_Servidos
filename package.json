@@ -1,0 +1,23 @@
+{
+  "name": "estao_servidos",
+  "version": "1.0.0",
+  "description": "Este projeto tem com objetivo, desenvolver um servidor json (Json-server) onde irá conter 3 rotas com 4+ dados nas quais o usuário poderá realizar o GET, POST, PUT, DELETE.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvrga/Estao_Servidos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvrga/Estao_Servidos/issues"
+  },
+  "homepage": "https://github.com/mvrga/Estao_Servidos#readme",
+  "devDependencies": {
+    "json-server": "^0.17.1"
+  }
+}
