@@ -10,3 +10,40 @@
 
 }
 
+{
+  "employee": [
+    {
+      "id": 1,
+      "type": "owner",
+      "name": "Marcus Vinicius",
+      "email": "marcusvinicius@exemplo.com",
+      "password": "12345678",
+      "birthdate": "1990-01-01",
+      "cpf": "177.288.399-00"
+    }
+  ],
+
+  "order-status": [
+    {
+      "id": 1,
+      " description ": "feito"
+    }
+  ],
+
+  "order": [
+    {
+      "id": 1,
+      "assessment": "Excelente escolha",
+      "dateTime": "2000-07-02-23:00"
+    }
+  ],
+
+  "ordered-items": [
+    {
+      "name": "Marcus Vinicius",
+      "description": "Açaí com Granola",
+      "value": "$14,77",
+      "Note": "adcione amendoim e cacau"
+    }
+  ]
+}
